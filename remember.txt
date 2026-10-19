@@ -1,0 +1,6 @@
+some importent commands:
+1.git branch --> to list down local branch
+2.git brnach -a --> to list down all the branches(local+remote) of that repo
+3.git switch branch_name --> to swith the current branch to branch_name
+4. git swith -c new_branch --> to create and then automatically swith to the new branch
+5. git -d branch_name --> to delete
